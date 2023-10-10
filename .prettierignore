@@ -1,0 +1,10 @@
+# Add files here to ignore them from prettier formatting
+/dist
+/coverage
+.anchor
+.DS_Store
+target
+node_modules
+dist
+build
+test-ledger
